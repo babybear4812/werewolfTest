@@ -1,11 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
-import GameRoom from './components/GameRoom'
+import GameRoom from './components/GameRoom';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className='App'>
       <GameRoom />
     </div>
   );
